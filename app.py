@@ -44,3 +44,4 @@ if st.button('Predict'):
         st.success('Developed')
     else:
         st.error('Underdeveloped')
+        
